@@ -1,0 +1,73 @@
+com/example/myapplication/databinding/ListItemcBinding.java
+ com.example.myapplication.databinding.ListItemcBinding
+com/example/myapplication/databinding/ActivityCalendarBinding.java
+ com.example.myapplication.databinding.ActivityCalendarBinding
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+com/example/myapplication/databinding/ListItemdelBinding.java
+ com.example.myapplication.databinding.ListItemdelBinding
+com/example/myapplication/data/LoginDataSource.java
+ com.example.myapplication.data.LoginDataSource
+com/example/myapplication/CalendarActivity.java
+ com.example.myapplication.CalendarActivity
+ com.example.myapplication.CalendarActivity$1
+ com.example.myapplication.MyAdapterC
+ com.example.myapplication.PersonC
+com/example/myapplication/data/LoginRepository.java
+ com.example.myapplication.data.LoginRepository
+com/example/myapplication/databinding/ActivityMainBinding.java
+ com.example.myapplication.databinding.ActivityMainBinding
+com/example/myapplication/databinding/ActivityScrollingBinding.java
+ com.example.myapplication.databinding.ActivityScrollingBinding
+com/example/myapplication/databinding/ActivityDeleteBinding.java
+ com.example.myapplication.databinding.ActivityDeleteBinding
+com/example/myapplication/data/model/LoggedInUser.java
+ com.example.myapplication.data.model.LoggedInUser
+com/example/myapplication/data/Result.java
+ com.example.myapplication.data.Result
+ com.example.myapplication.data.Result$1
+ com.example.myapplication.data.Result$Error
+ com.example.myapplication.data.Result$Success
+com/example/myapplication/CalendarActivity1.java
+ com.example.myapplication.CalendarActivity1
+com/example/myapplication/databinding/ContentScrollingBinding.java
+ com.example.myapplication.databinding.ContentScrollingBinding
+com/example/myapplication/databinding/ActivityMain2Binding.java
+ com.example.myapplication.databinding.ActivityMain2Binding
+com/example/myapplication/databinding/ListItemBinding.java
+ com.example.myapplication.databinding.ListItemBinding
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/ScrollingActivity.java
+ com.example.myapplication.MyAdapter
+ com.example.myapplication.Person
+ com.example.myapplication.ScrollingActivity
+ com.example.myapplication.ScrollingActivity$1
+com/example/myapplication/DBcontrol.java
+ com.example.myapplication.DBcontrol
+com/example/myapplication/ScrollingActivity1.java
+ com.example.myapplication.MyAdapter1
+ com.example.myapplication.Person1
+ com.example.myapplication.ScrollingActivity1
+com/example/myapplication/AddCalendarActivity3.java
+ com.example.myapplication.AddCalendarActivity3
+ com.example.myapplication.AddCalendarActivity3$1
+ com.example.myapplication.AddCalendarActivity3$2
+ com.example.myapplication.AddCalendarActivity3$3
+ com.example.myapplication.AddCalendarActivity3$4
+com/example/myapplication/databinding/ActivityAddCalendar3Binding.java
+ com.example.myapplication.databinding.ActivityAddCalendar3Binding
+com/example/myapplication/MainActivity2.java
+ com.example.myapplication.MainActivity2
+ com.example.myapplication.MainActivity2$1
+ com.example.myapplication.MainActivity2$2
+ com.example.myapplication.MainActivity2$3
+ com.example.myapplication.MainActivity2$4
+ com.example.myapplication.MainActivity2$5
+ com.example.myapplication.MainActivity2$Perehod
+com/example/myapplication/DeleteActivity.java
+ com.example.myapplication.DeleteActivity
+ com.example.myapplication.DeleteActivity$1
+ com.example.myapplication.DeleteActivity$MyArrayAdapter
+ com.example.myapplication.MyAdapterD1
+ com.example.myapplication.PersonD1
