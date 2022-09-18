@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.recyclerview:recyclerview-selection:1.1.0-alpha06@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/caches/transforms-3/2fc33c09b7ddb5f77af3364d1eb491f3/transformed/recyclerview-selection-1.1.0-alpha06/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/caches/transforms-3/2fc33c09b7ddb5f77af3364d1eb491f3/transformed/recyclerview-selection-1.1.0-alpha06/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/caches/transforms-3/2fc33c09b7ddb5f77af3364d1eb491f3/transformed/recyclerview-selection-1.1.0-alpha06/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../Gradle/caches/transforms-3/2fc33c09b7ddb5f77af3364d1eb491f3/transformed/recyclerview-selection-1.1.0-alpha06/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../Gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview-selection/1.1.0-alpha06/36eb6fbefa7e9c3fe39ab858a3d60f87e5fb2529/recyclerview-selection-1.1.0-alpha06-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
