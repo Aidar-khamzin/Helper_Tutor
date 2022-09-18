@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_calendar.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_item.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_scrolling.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\activity_scrolling.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_calendar3.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\activity_add_calendar3.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main2.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_delete.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\activity_delete.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_itemdel.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\list_itemdel.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_scrolling.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_itemc.xml",
+        "source": "D:\\Server\\Aidar project\\Samsung\\AndroidProjects\\MyApplication22\\app\\src\\main\\res\\layout\\list_itemc.xml"
+    }
+]
